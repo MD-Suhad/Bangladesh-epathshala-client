@@ -9,10 +9,10 @@ const Footer = () => {
     <div class="row">
 
       <div class="col-lg-3 col-md-6 footer-contact">
-        <h3  style={{ padding: '14px 0px' , color: '#37517e' , fontSize: '28px', lineHeight: '1px', fontWeight: '600px'}}>ePathShala Ltd.</h3>
-        <p style={{ textDecoration: 'none', color: '#777777', lineHeight: '24px', fontSize: '14px', padding: '10px 0px' }}>1301 s Scott street, ARLINGTON,Virginia 22204,USA <br/>
-        <strong >Phone:</strong> +1 5589 55488 55 <br/> 
-        <strong>Email:</strong> info@example.com<br></br>
+        <h3  style={{ padding: '14px 0px' , color: '#37517e' , fontSize: '28px', lineHeight: '1px', fontWeight: '600px'}}>Online_PathShala Ltd.</h3>
+        <p style={{ textDecoration: 'none', color: '#777777', lineHeight: '24px', fontSize: '14px', padding: '10px 0px' }}>ShekerTek,Mohammadpur,Dhaka 1204,Bangladesh <br/>
+        <strong >Phone:</strong> +880-1767028815<br/> 
+        <strong>Email:</strong> info@shohaib.com<br></br>
         </p>
        
       </div>
@@ -31,9 +31,9 @@ const Footer = () => {
       <div class="col-lg-3 col-md-6 footer-links">
         <h4 style={{padding: '14px 0px', color: '#37517e',  fontSize: '20px', lineHeight: '1px', fontWeight: '600px', paddingLeft: '30px'}}>Our Services</h4>
         <ul>
-          <li style={{padding: '10px 0px', listStyle: 'none'}}><i class="bx bx-chevron-right py-4"></i> <a style={{ textDecoration: 'none', color: '#777777', }} href="#">Web Design</a></li>
+          <li style={{padding: '10px 0px', listStyle: 'none'}}><i class="bx bx-chevron-right py-4"></i> <a style={{ textDecoration: 'none', color: '#777777', }} href="#">Game Development</a></li>
           <li style={{padding: '10px 0px', listStyle: 'none'}}><i class="bx bx-chevron-right py-4"></i> <a style={{ textDecoration: 'none', color: '#777777', paddingBottom: '12px' }} href="#">Web Development</a></li>
-          <li style={{padding: '10px 0px', listStyle: 'none'}}><i class="bx bx-chevron-right"></i> <a style={{ textDecoration: 'none', color: '#777777' }} href="#">Product Management</a></li>
+          <li style={{padding: '10px 0px', listStyle: 'none'}}><i class="bx bx-chevron-right"></i> <a style={{ textDecoration: 'none', color: '#777777' }} href="#">Digital Marketing</a></li>
           <li style={{padding: '10px 0px', listStyle: 'none'}}><i class="bx bx-chevron-right"></i> <a style={{ textDecoration: 'none', color: '#777777' }} href="#">Marketing</a></li>
           <li style={{padding: '10px 0px', listStyle: 'none'}}><i class="bx bx-chevron-right"></i> <a style={{ textDecoration: 'none', color: '#777777' }} href="#">Graphic Design</a></li>
         </ul>
@@ -57,7 +57,7 @@ const Footer = () => {
 
 <div class=" footer-bottom clearfix">
   <div style={{display: 'flex', justifyContent: 'center', backgroundColor: '#37517e', fontSize: '14px', padding: '20px 0px', color: 'white' }} class="copyright">
-    &copy; Copyright <strong><span>@ePathShala Ltd.</span></strong>. All Rights Reserved @2021
+    &copy; Copyright <strong><span>@online_PathShala Ltd.</span></strong>. All Rights Reserved @2021
   </div>
 
 </div>
