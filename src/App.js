@@ -88,9 +88,9 @@ import TeacherFeatures from "./Structure/Dashboard/SchoolDashboard/Teacher/teach
 import RoutineOption from "./Structure/Dashboard/ViewerDashboard/ViewerDashboardFeatures/RoutineOption/RoutineOption";
 
 function App(props) {
-  const [user_code, setUser_code] = useState("");
-  const [user_type, setUser_type] = useState(0);
-  const [homeworkid, setHomeworkid] = useState("");
+  // const [user_code, setUser_code] = useState("");
+  // const [user_type, setUser_type] = useState(0);
+  // const [homeworkid, setHomeworkid] = useState("");
 
   return (
     <div className="App">
